@@ -1,0 +1,8 @@
+body {
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+}
+.body-text {
+    color: whitesmoke;
+    background-color: blue;
+    font-weight: bold;
+}

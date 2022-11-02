@@ -1,0 +1,27 @@
+Rayna Ketchum 
+Lab 4 Responses 
+
+1. os and os.path libraries are used to navigate files in Python. 
+2. os.getcwd() 
+3. Hope this answers the question! For full code, with all of the checks and errors, see 676_lab4_practices.ipynb
+
+import os
+import os.path
+import shutil
+
+cur_dir = os.getcwd()
+
+webfiles_dir = os.path.join(cur_dir, 'data', 'webfiles-samples')
+
+contents = os.listdir(webfiles_dir)
+
+for item in contents:
+    if (os.path.isdir(os.path.join(webfiles_dir, item))):
+        item_dir = os.path.join(webfiles_dir, item)
+        print(os.listdir(item_dir))
+    else:
+        pass
+
+4. Os.path() helps identify the different parts of the filepath, and to split up paths. This helps us operationalize opening many files with similar file paths and performing a function. 
+
+5. Using open() and close() directly opens the file. You must do this to write to a file in Pything. Once a file is opened, it requires being closed, close(). However,  "with open()" allows us to write to a file (if it is there) without having to remember to use the close() function. With open() will automatically close the file once the look is finished. At the moment I prefer "with open()" because that's the way it was taught in class. Plus the added benefit of not needing to remember to use close(). 
