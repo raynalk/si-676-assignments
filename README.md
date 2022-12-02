@@ -22,7 +22,7 @@ File List:
 676_assignment4.ipynb
 collection_item_data.csv
 
-Relationship between files, if important: 676_assignment1_raynalk.csv was produced by running the code writtin in 676_assignmnet1_raynalk_code_WORKING.ipynb. 51 files are listed. The metadata for each file in the Data folder are: absolute path, filename, extension, size in bytes, datetime of last modification, and md5 checksum. File 676_assignmnet4.ipynb outputs collection_item_data.csv.
+Relationship between files, if important: 676_assignment1_raynalk.csv was produced by running the code writtin in 676_assignmnet1_raynalk_code_WORKING.ipynb. 51 files are listed. The metadata for each file in the Data folder are: absolute path, filename, extension, size in bytes, datetime of last modification, and md5 checksum. File 676_assignmnet4.ipynb outputs collection_item_data.csv. The data from collection_item_data.csv is uploaded to the website linked in file 676_Assignment4_url. 
 
 Date Created: 2022-10-10
 
