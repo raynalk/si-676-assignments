@@ -16,9 +16,13 @@ Institution: UNIVERSITY OF MICHIGAN
 
 DATA & FILE OVERVIEW
 
-File List: 676_assignment1_raynalk.csv, 676_assignmnet1[sic]_raynalk_code_WORKING.ipynb (spelling error to be fixed)
+File List: 
+676_assignment1_raynalk.csv, 
+676_assignment1_raynalk_code_WORKING.ipynb 
+676_assignment4.ipynb
+collection_item_data.csv
 
-Relationship between files, if important: 676_assignment1_raynalk.csv was produced by running the code writtin in 676_assignmnet1_raynalk_code_WORKING.ipynb. 51 files are listed. The metadata for each file in the Data folder are: absolute path, filename, extension, size in bytes, datetime of last modification, and md5 checksum.
+Relationship between files, if important: 676_assignment1_raynalk.csv was produced by running the code writtin in 676_assignmnet1_raynalk_code_WORKING.ipynb. 51 files are listed. The metadata for each file in the Data folder are: absolute path, filename, extension, size in bytes, datetime of last modification, and md5 checksum. File 676_assignmnet4.ipynb outputs collection_item_data.csv.
 
 Date Created: 2022-10-10
 
